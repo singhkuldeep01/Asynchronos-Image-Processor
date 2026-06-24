@@ -1,0 +1,1 @@
+import imageWorker from '..//server/src/workers/image.worker.js';
